@@ -1,5 +1,5 @@
 # NAME
 SinWave
 
-# URl
+# DEMO
 https://id-kaitonote.github.io/SinWave/dest
